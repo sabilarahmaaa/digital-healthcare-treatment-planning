@@ -1,6 +1,6 @@
 # Digital Healthcare Treatment Planning & Tracking
 
-![Digital Healthcare Treatment Planning and Tracking](assets/digital-healthcare-treatment-planning-cover.png)
+![Digital Healthcare Treatment Planning and Tracking](digital-healthcare-treatment-planning-cover.png)
 
 A product management case study exploring how clinicians could plan treatments, document decisions, and monitor patient progress across multiple visits.
 
